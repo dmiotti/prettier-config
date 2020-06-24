@@ -1,0 +1,13 @@
+{
+    "name": "@dmiotti/prettier-config",
+    "version": "1.0.0",
+    "description": "My prettier config.",
+    "main": "index.json",
+    "repository": "git@github.com:dmiotti/prettier-config.git",
+    "author": "David Miotti <david@station-coding.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dmiotti/prettier-config/issues"
+    },
+    "homepage": "https://github.com/dmiotti/prettier-config#readme"
+}
